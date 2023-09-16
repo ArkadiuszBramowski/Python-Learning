@@ -6,6 +6,7 @@
 # every third element counting from the end
 # what is the average of the last ten values
 
+
 numbers = tuple(range(12, 1024, 6))
 
 print('Number of values', len(numbers))
