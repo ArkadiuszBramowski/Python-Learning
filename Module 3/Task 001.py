@@ -20,3 +20,9 @@ print(list_of_numbers)
 print('Smallest number is', min(list_of_numbers))
 print('Highest number is', max(list_of_numbers))
 print('Average number is', sum(list_of_numbers) / number_of_numbers)
+
+# Write a program in which you receive the user's names and surnames separated by commas,
+# the response should display correctly spelled names without sorting from Z-A
+
+Full_names = input('Write few names with surnames here: ')
+print(Full_names)
